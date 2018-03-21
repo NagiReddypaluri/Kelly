@@ -4,7 +4,7 @@ class first
 	public static void main(String args[]
 			
 	{
-		system.out.println ("Git world");
+		system.out.println ("Welcome to Git world");
 	}
 }
 
